@@ -5,7 +5,7 @@
   a platformer endless game.  
   The goal is to jump as high as possible, scoring the most points.  
   There are several powerups to be used (picked at the center of a platform, spawns with probabilty):  
-    1. 'Jumpy' - will boost you up a stage ![Boost](images/Boost.png)  
+    1. 'Jumpy' - boosts you up a stage ![Boost](images/Boost.png)  
     2. 'Coin' - +100 score ![Coin](images/Coin.png)  
     3. 'Shroomy' - boosts your jump for the next 7 jumps ![Shroomy](images/Shroomy.png)  
     4. 'Shroomo' - de-boosts your jump for the next 7 jumps ![Shroomo](images/Shroomo.png)  
